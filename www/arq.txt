@@ -1,0 +1,40 @@
+Array
+(
+    [UNIQUE_ID] => U@pu4H8AAAEAACbvCf8AAABw
+    [SCRIPT_URL] => /envio.php
+    [SCRIPT_URI] => http://dentroda.booweb.com.br/envio.php
+    [no-gzip] => dont-vary
+    [CONTENT_TYPE] => multipart/form-data; boundary=+++++
+    [HTTP_USER_AGENT] => Dalvik/1.6.0 (Linux; U; Android 4.4.2; KTouch v9 Build/KVT49L)
+    [HTTP_HOST] => dentroda.booweb.com.br
+    [HTTP_CONNECTION] => Keep-Alive
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 0
+    [PATH] => /usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin:/root:/usr/local/apache2/bin:/opt/ruby/bin/
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => dentroda.booweb.com.br
+    [SERVER_ADDR] => 189.38.90.56
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 187.59.49.34
+    [DOCUMENT_ROOT] => /home/booweb/www/dentroda/
+    [SERVER_ADMIN] => booweb@booweb.com.br
+    [SCRIPT_FILENAME] => /home/booweb/www/dentroda/envio.php
+    [REMOTE_PORT] => 58431
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /envio.php
+    [SCRIPT_NAME] => /envio.php
+    [PHP_SELF] => /envio.php
+    [REQUEST_TIME] => 1407872736
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+Array
+(
+)
