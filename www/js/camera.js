@@ -27,7 +27,7 @@ function onCapturePhoto(fileURI) {
     retries = 0;
     console.log('Sucesso.');
     onPhotoDataSuccess('http://dentroda.booweb.com.br/image/'+fileURI.substr(fileURI.lastIndexOf('/') + 1));
-    //alert('Foto enviada com sucesso.');
+    alert('Foto enviada com sucesso.');
   }
 
   var fail = function (error) {
@@ -40,7 +40,7 @@ function onCapturePhoto(fileURI) {
     } else {
       retries = 0;
       clearCache();
-      alert('Erro ao enviar a foto!');
+      //alert('Erro ao enviar a foto!');
       alert(error);
     }
   }
