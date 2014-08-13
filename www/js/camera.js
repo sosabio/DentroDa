@@ -40,8 +40,7 @@ function onCapturePhoto(fileURI) {
     } else {
       retries = 0;
       clearCache();
-      //alert('Erro ao enviar a foto!');
-      alert(error);
+      alert('Erro ao enviar a foto!');
     }
   }
 
